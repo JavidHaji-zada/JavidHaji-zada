@@ -21,4 +21,4 @@ Git, GraphQL, REST API
 
 🧠 I'm currently learning Supabase, PostgreSQL
 
-📫 How to reach me... cavid.hacizade.99@gmail.com
+📫 How to reach me... jvdhjz@gmail.com
