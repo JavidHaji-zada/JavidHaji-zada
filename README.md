@@ -7,18 +7,14 @@ I am a software engineer with degree in B.Sc in Computer Science, skilled in mob
 ![Javid's GitHub stats](https://github-readme-stats.vercel.app/api?username=javidhaji-zada&theme=dark&show_icons=true)
 
 ## Languages
-TypeScript, Javascript, Java, Python
+TypeScript, Javascript
 ## Framework
-React Native, Node.js, React.js, Spring Boot, Next.js, Flask
-## Libraries
-Redux, Axios, RxJs
+React Native, Node.js, React.js
 ## Tools
-Firebase, GCP, AWS, MongoDB, WatermelonDB, SQLite,SQL,MySQL, WebSocket, CI/CD, AWS, GCP, Docker, Grafana, Influx DB, Chronograf
+Firebase, GCP, AWS, MongoDB, WatermelonDB, SQLite,SQL,MySQL, WebSocket, CI/CD, AWS
 ## Other
 Git, GraphQL, REST API
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on [QuarPay](https://quarpay.io/) as Mobile Engineer.
-
-🧠 I'm currently learning Supabase, PostgreSQL
+👩‍💻 I'm currently working on [TomoCredit](https://tomocredit.com/) as Software Engineer.
 
 📫 How to reach me... jvdhjz@gmail.com
