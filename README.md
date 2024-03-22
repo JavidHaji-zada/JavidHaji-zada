@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am a software engineer with degree in B.Sc in Computer Science, skilled in mobile & web app deveopment. Focusing on using modern technologies via applying best practices
+I am a software engineer with a B.Sc in Computer Science, skilled in mobile & web app development. Focusing on using modern technologies via applying best practices
 
 
 ## Stats
@@ -11,10 +11,8 @@ TypeScript, Javascript
 ## Framework
 React Native, Node.js, React.js
 ## Tools
-Firebase, GCP, AWS, MongoDB, WatermelonDB, SQLite,SQL,MySQL, WebSocket, CI/CD, AWS
+Firebase, GCP, AWS, MongoDB, WatermelonDB, SQLite, SQL, MySQL, WebSocket, CI/CD, AWS
 ## Other
 Git, GraphQL, REST API
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on [TomoCredit](https://tomocredit.com/) as Software Engineer.
 
 📫 How to reach me... jvdhjz@gmail.com
