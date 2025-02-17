@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am a software engineer with a B.Sc in Computer Science, skilled in mobile & web app development. Focusing on using modern technologies via applying best practices
+Hello there! I am a software engineer based in New York City, skilled in mobile & web app development. Focusing on using modern technologies via applying best practices.
 
 
 ## Stats
